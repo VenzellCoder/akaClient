@@ -1,0 +1,3 @@
+[submodule "submodules/akaSharedCode"]
+	path = submodules/akaSharedCode
+	url = https://github.com/VenzellCoder/akaSharedCode.git
